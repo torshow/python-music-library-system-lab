@@ -8,6 +8,15 @@ Imagine you've just landed a role as a junior software engineer at MusicTech Inn
 <br />
 You're tasked with creating a Song class that not only represents individual songs with attributes like name, artist, and genre but also maintains global insights. For example, your class will keep track of the total number of songs, list all unique artists and genres, and even count how many songs belong to each genre and artist. This functionality is critical for features like personalized recommendations and data analytics.
 
+## About This Project
+
+This project implements a `Song` class that represents individual songs 
+(name, artist, genre) while also tracking global library statistics: the 
+total number of songs created, all unique genres and artists seen so far, 
+and a count of songs per genre and per artist.
+
+![Passing tests](screenshots/Screenshot.png)
+
 ## Tools & Resources
 
 * [GitHub Repo](https://github.com/learn-co-curriculum/python-music-library-system-lab)
